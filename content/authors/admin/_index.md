@@ -6,7 +6,7 @@ title: Test
 superuser: true
 
 # Role/position/tagline
-role: Professor of Interesting Things
+role: Postdoctoral researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: https://www.ru.nl/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include all things interesting.
+bio: Dingen.
 
 # Interests to show in About widget
 interests:
@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
+  - course: PhD in communication science
     institution: Stanford University
     year: 2012
   - course: MEng in Artificial Intelligence
