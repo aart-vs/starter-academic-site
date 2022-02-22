@@ -14,26 +14,28 @@ organizations:
   url: https://www.ru.nl/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Dingen.
+bio: I am a postdoctoral researcher at the Communication & Media research group, part of the Behavioural Science Institute. 
+
+I’m interested in science communication. Sometimes we hold beliefs that are not based on scientific information, for instance regarding climate change, vaccination, and food safety. Even when we are faced with scientific evidence we don't change our minds. Why do we sometimes stick to our beliefs? And how can science be communicated to give it a fair chance in discussion of such topics?
 
 # Interests to show in About widget
 interests:
-- Interesting Intelligence
-- Interesting Linguistics
-- Interesting Retrieval
+- Science communication
+- Open science
+- Meta-analysis
 
 # Education to show in About widget
 education:
   courses:
   - course: PhD in communication science
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    institution: Radboud University
+    year: 2017-2021
+  - course: Research master's in behavioural science
+    institution: Radboud University
+    year: 2014-2016
+  - course: Bachelor's in communication science
+    institution: Radboud University
+    year: 2010-2014
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
