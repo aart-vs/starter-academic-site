@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Test
+title: Aart van Stekelenburg
 
 # Is this the primary user of the site?
 superuser: true
@@ -14,13 +14,12 @@ organizations:
   url: https://www.ru.nl/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a postdoctoral researcher at the Communication & Media research group, part of the Behavioural Science Institute. 
-
-I’m interested in science communication. Sometimes we hold beliefs that are not based on scientific information, for instance regarding climate change, vaccination, and food safety. Even when we are faced with scientific evidence we don't change our minds. Why do we sometimes stick to our beliefs? And how can science be communicated to give it a fair chance in discussion of such topics?
+bio: I am a postdoctoral researcher at the Communication & Media research group, part of the Behavioural Science Institute at Radboud University. I’m interested in science communication. Sometimes we hold beliefs that are not based on scientific information, for instance regarding climate change, vaccination, and food safety. Even when we are faced with scientific evidence we don't change our minds. Why do we sometimes stick to misperceptions? And how can science be communicated to better inform us of the facts regarding important topics?
 
 # Interests to show in About widget
 interests:
 - Science communication
+- Boosting
 - Open science
 - Meta-analysis
 
@@ -30,7 +29,7 @@ education:
   - course: PhD in communication science
     institution: Radboud University
     year: 2017-2021
-  - course: Research master's in behavioural science
+  - course: Research master's in behavioral science
     institution: Radboud University
     year: 2014-2016
   - course: Bachelor's in communication science
@@ -44,19 +43,22 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: mailto:aart.vanstekelenburg@ru.nl
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://twitter.com/AvStekelenburg
+- icon: google-scholar  
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=Oux-JgsAAAAJ&hl=en&oi=ao
+- icon: osf
+  icon_pack: ai
+  link: https://osf.io/uwzky/
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/aart-van-stekelenburg/
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0000-0002-9978-0224  
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -66,14 +68,12 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "aart.vanstekelenburg@ru.nl"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I am a postdoctoral researcher at the Communication & Media research group, part of the Behavioural Science Institute at Radboud University. I’m interested in science communication.  
+  
+Sometimes we hold beliefs that are not based on scientific information, for instance regarding climate change, vaccination, and food safety. Even when we are faced with scientific evidence we don't change our minds. Why do we sometimes stick to misperceptions? And how can science be communicated to better inform us of the facts regarding important topics?
