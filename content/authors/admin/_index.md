@@ -77,3 +77,5 @@ highlight_name: true
 I am a postdoctoral researcher at the Communication & Media research group, part of the Behavioural Science Institute at Radboud University. I’m interested in science communication.  
   
 Sometimes we hold beliefs that are not based on scientific information, for instance regarding climate change, vaccination, and food safety. Even when we are faced with scientific evidence we don't change our minds. Why do we sometimes stick to misperceptions? And how can science be communicated to better inform us of the facts regarding important topics?
+
+*This website is still under development. A complete list of publications and talks is forthcoming.*
