@@ -1,5 +1,5 @@
 ---
-title: "Boosting understanding and identification of scientific consensus can help to correct false beliefs"
+title: "Correcting misperceptions: The causal role of motivation in corrective science communication about vaccine and food safety"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -10,7 +10,7 @@ authors:
 - Harm Veling
 - Moniek Buijzen
 
-date: "2021-09-10T00:00:00Z"
+date: "2020-02-01T00:00:00Z"
 doi: "10.1177/09567976211007788"
 
 # Schedule page publish date (NOT publication's date).
@@ -23,10 +23,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Psychological Science*
-publication_short: In *PS*
+publication: In *Science Communication*
+publication_short: In *Science Communication*
 
-abstract: Some people hold beliefs that are opposed to overwhelming scientific evidence. Such misperceptions can be harmful to both personal and societal well-being. Communicating scientific consensus has been found to be effective in eliciting scientifically accurate beliefs, but it is unclear whether it is also effective in correcting false beliefs. Here, we show that a strategy that boosts people's understanding of and ability to identify scientific consensus can help to correct misperceptions. In three experiments with more than 1,500 U.S. adults who held false beliefs, participants first learned the value of scientific consensus and how to identify it. Subsequently, they read a news article with information about a scientific consensus opposing their beliefs. We found strong evidence that in the domain of genetically engineered food, this two-step communication strategy was more successful in correcting misperceptions than merely communicating scientific consensus. The data suggest that the current approach may not work for misperceptions about climate change.
+abstract: Some people stick to beliefs that do not align with scientific consensus when faced with science communication that contradicts those misperceptions. Two preregistered experiments (total N = 1,256) investigated the causal role of motivated reasoning in the effectiveness of correcting misperceptions. In both experiments, accuracy-driven reasoning led to a larger corrective effect of a science communication message than reasoning driven by directional motivation. Individuals' default reasoning made them just as receptive to the correction as accuracy-driven reasoning. This finding supports a more optimistic view of human receptivity to science communication than often found in the literature.
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -41,9 +41,9 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'http://journals.sagepub.com/doi/10.1177/09567976211007788'
-url_code: 'https://osf.io/hua8v/'
-url_dataset: 'https://osf.io/hua8v/'
+url_pdf: 'http://journals.sagepub.com/doi/10.1177/1075547019898256'
+url_code: 'https://bit.ly/2Pv1mlY'
+url_dataset: 'https://bit.ly/2Pv1mlY'
 url_poster: ''
 url_project: ''
 url_slides: ''
