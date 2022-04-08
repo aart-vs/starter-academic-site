@@ -41,7 +41,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'http://journals.sagepub.com/doi/10.1177/09567976211007788'
+url_pdf: 'https://journals.sagepub.com/doi/pdf/10.1177/09567976211007788'
 url_code: 'https://osf.io/hua8v/'
 url_dataset: 'https://osf.io/hua8v/'
 url_poster: ''

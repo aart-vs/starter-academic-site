@@ -41,7 +41,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'http://www.jmir.org/2021/1/e24069/'
+url_pdf: 'https://www.jmir.org/2021/1/e24069/PDF'
 url_code: 'https://osf.io/4e9ky/'
 url_dataset: 'https://osf.io/4e9ky/'
 url_poster: ''
