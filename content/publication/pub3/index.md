@@ -37,9 +37,13 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+ - name: Letter to the Editors by Zarzeczna et al.
+   url: 'https://figshare.com/articles/journal_contribution/sj-pdf-1-pss-10_1177_09567976211007788_Supplemental_material_for_Boosting_Understanding_and_Identification_of_Scientific_Consensus_Can_Help_to_Correct_False_Beliefs/16640672'
+ - name: Letter to the Editors by van der Linden & Lewandowsky 
+   url: 'https://figshare.com/articles/journal_contribution/sj-pdf-1-pss-10_1177_09567976211007788_Supplemental_material_for_Boosting_Understanding_and_Identification_of_Scientific_Consensus_Can_Help_to_Correct_False_Beliefs/17022059'
+ - name: Letter to the Editors by van Stekelenburg et al. 
+   url: 'https://figshare.com/articles/journal_contribution/sj-pdf-1-pss-10_1177_09567976211007788_Supplemental_material_for_Boosting_Understanding_and_Identification_of_Scientific_Consensus_Can_Help_to_Correct_False_Beliefs/19076589'
 
 url_pdf: 'https://journals.sagepub.com/doi/pdf/10.1177/09567976211007788'
 url_code: 'https://osf.io/hua8v/'
