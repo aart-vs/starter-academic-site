@@ -38,7 +38,7 @@ links:
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: "https://www.ru.nl/over-ons/diensten-faciliteiten/vm/aula/livestream/livestream-academiezaal/"
+url_video: ""
 
 ---
 
