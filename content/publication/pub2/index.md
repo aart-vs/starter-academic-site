@@ -11,8 +11,8 @@ authors:
 - Jonathan van 't Riet
 - Moniek Buijzen
 
-date: "in press"
-doi: "10.31219/osf.io/etsrw"
+date: "2022-10-14T00:00:00Z"
+doi: "https://doi.org/10.1177/09567976221083219"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-02-07T00:00:00Z"
@@ -21,11 +21,11 @@ publishDate: "2022-02-07T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *In press at Psychological Science*
-publication_short: In *In press at Psychological Science*
+publication: In *Psychological Science*
+publication_short: In *Psychological Science*
 
 abstract: Scientific consensus communication is among the most promising interventions to minimize the gap between experts’ and the public’s belief in scientific facts. There is, however, discussion about its effectiveness in changing consensus perceptions and beliefs about contested science topics. This preregistered meta-analysis assessed the effects of communicating the existence of scientific consensus on perceived scientific consensus and belief in scientific facts. Combining 43 experiments about climate change, genetically modified food, and vaccination, we show that single exposure to consensus messaging has a positive effect on perceived scientific consensus (g = 0.55) and on factual beliefs (g = 0.12). Consensus communication yielded very similar effects for climate change and genetically modified food, while the low number of experiments about vaccination prevented conclusions regarding this topic specifically. Although the effect is small, communicating scientific consensus appears to be an effective way to change factual beliefs about contested science topics.
 
@@ -42,7 +42,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://osf.io/etsrw/'
+url_pdf: 'https://doi.org/10.1177/09567976221083219'
 url_code: 'https://osf.io/9gnkc/'
 url_dataset: 'https://osf.io/9gnkc/'
 url_poster: ''
