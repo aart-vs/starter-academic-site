@@ -22,12 +22,19 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Assistant professor
+    company: Radboud University
+    company_url: 'https://www.ru.nl/'
+    location: Nijmegen
+    date_start: '2023-01-01'
+    date_end: ''
+
   - title: Postdoctoral researcher
     company: Radboud University
     company_url: 'https://www.ru.nl/'
     location: Nijmegen
     date_start: '2022-01-01'
-    date_end: ''
+    date_end: '2022-12-31'
 
   - title: PhD student
     company: Radboud University

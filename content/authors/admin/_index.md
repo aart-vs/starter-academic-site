@@ -6,7 +6,7 @@ title: Aart van Stekelenburg
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral researcher
+role: Assistant professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -74,6 +74,6 @@ email: "aart.vanstekelenburg@ru.nl"
 highlight_name: true
 ---
 
-I am a postdoctoral researcher at the Communication & Media research group, part of the Behavioural Science Institute at Radboud University. I’m interested in science communication.  
+I am an Assistant professor at the Communication & Media research group, part of the Behavioural Science Institute at Radboud University. I’m interested in science communication.  
   
 Sometimes we hold beliefs that are not based on scientific information, for instance regarding climate change, vaccination, and food safety. Even when we are faced with scientific evidence we don't change our minds. Why do we sometimes stick to misperceptions? And how can science be communicated to better inform us of the facts regarding important topics?
